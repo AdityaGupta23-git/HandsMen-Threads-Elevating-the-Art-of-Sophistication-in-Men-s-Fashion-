@@ -86,7 +86,7 @@ Aditya Gupta
 🔄 Flow: Order Confirmation Email
 <img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/ce4e8e89-51c6-43a1-8e42-4a31e740e68e" />
 🔄 Flow: Stock Alert
-<img width="1919" height="924" alt="Screenshot 2025-07-20 000745" src="https://github.com/user-attachments/assets/51e39ae9-7e9a-4868-8006-d03f1cf75f21" />
+<img width="943" height="431" alt="image" src="https://github.com/user-attachments/assets/93df6bc6-d84b-4855-acf6-5691be062f60" />
 🔄 Flow: Stock Alert Email
 <img width="1918" height="915" alt="image" src="https://github.com/user-attachments/assets/108483d0-031d-4d78-a69a-66d1900eb41b" />
 🔄 Classic Email Template

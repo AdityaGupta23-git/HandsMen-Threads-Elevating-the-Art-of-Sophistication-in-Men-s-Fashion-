@@ -61,7 +61,7 @@ Writing asynchronous code using Batch and Scheduled Apex
 Building user interfaces with Lightning App Builder
 
 👨‍💻 Author
-Yash Bhamare
+Aditya Gupta
 
 🔗 Project Links
 🎥 Demo Video: [Click Here-Video](https://drive.google.com/file/d/1K9giCr1mE7cJpYiYXGdcWeMAqHMv4CGF/view?usp=sharing) 

@@ -90,7 +90,7 @@ Aditya Gupta
 🔄 Flow: Stock Alert Email
 <img width="1918" height="915" alt="image" src="https://github.com/user-attachments/assets/108483d0-031d-4d78-a69a-66d1900eb41b" />
 🔄 Classic Email Template
-<img width="1919" height="935" alt="Screenshot 2025-07-20 000945" src="https://github.com/user-attachments/assets/8cb31e4e-f5e6-4fff-b609-7cdd14957850" />
+<img width="940" height="430" alt="image" src="https://github.com/user-attachments/assets/01a50a4c-3470-4269-a59a-7e3ab952ac30" />
 🔄 Loyalty program Email 
 <img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/6f44bf91-aafb-4c64-a126-74e1308fe7e9" />
 🔄 Developer Console

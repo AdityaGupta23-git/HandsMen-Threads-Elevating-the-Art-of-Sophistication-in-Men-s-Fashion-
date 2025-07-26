@@ -79,12 +79,14 @@ Aditya Gupta
 <img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/00f576f5-f902-48df-89f0-52f85eba951f" />
 🔄 Custom Objects: Marketing Campaign
 <img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/d14b91c1-dfda-4c05-a0cc-74d23160eb71" />
+
 🔄 Flow: Loyalty Status Update
 <img width="1919" height="867" alt="Screenshot 2025-07-20 000629" src="https://github.com/user-attachments/assets/7cf8806d-32cc-4c48-97b0-247ceee40721" />
 🔄 Flow: Order Confirmation
-<img width="1919" height="929" alt="Screenshot 2025-07-20 000712" src="https://github.com/user-attachments/assets/21590f9c-ed77-48a2-8a04-15ef3979b794" />
+<img width="940" height="426" alt="image" src="https://github.com/user-attachments/assets/af094c1e-9659-4afe-b9ef-e7feb648c171" />
 🔄 Flow: Order Confirmation Email
 <img width="1918" height="916" alt="image" src="https://github.com/user-attachments/assets/ce4e8e89-51c6-43a1-8e42-4a31e740e68e" />
+
 🔄 Flow: Stock Alert
 <img width="943" height="431" alt="image" src="https://github.com/user-attachments/assets/93df6bc6-d84b-4855-acf6-5691be062f60" />
 🔄 Flow: Stock Alert Email

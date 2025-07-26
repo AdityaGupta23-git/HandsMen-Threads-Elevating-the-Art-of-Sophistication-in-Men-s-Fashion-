@@ -66,7 +66,7 @@ Aditya Gupta
 🔗 Project Links
 🎥 Demo Video: [Click Here-Video](https://drive.google.com/file/d/1K9giCr1mE7cJpYiYXGdcWeMAqHMv4CGF/view?usp=sharing) 
 
-💻 GitHub Repository: https://github.com/yashbhamare-lab/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion.git
+💻 GitHub Repository: https://github.com/AdityaGupta23-git/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion-
 
 
 🔄 Custom Objects: HandsMen Customer

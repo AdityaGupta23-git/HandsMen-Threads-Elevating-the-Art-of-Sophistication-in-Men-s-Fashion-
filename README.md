@@ -94,7 +94,7 @@ Aditya Gupta
 🔄 Loyalty program Email 
 <img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/6f44bf91-aafb-4c64-a126-74e1308fe7e9" />
 🔄 Developer Console
-<img width="1919" height="917" alt="Screenshot 2025-07-20 001455" src="https://github.com/user-attachments/assets/6e845861-77f2-441d-b7a2-8c59c9288812" />
+<img width="940" height="415" alt="image" src="https://github.com/user-attachments/assets/3f47e133-846f-43c9-bec6-52304fd033e4" />
 
 
 

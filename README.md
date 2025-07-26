@@ -64,7 +64,7 @@ Building user interfaces with Lightning App Builder
 Aditya Gupta
 
 🔗 Project Links
-🎥 Demo Video: https://drive.google.com/file/d/1K9giCr1mE7cJpYiYXGdcWeMAqHMv4CGF/view?usp=sharing](https://www.loom.com/share/937c12ab6c4a469cb9cb5165e8ba4d31?sid=22112953-5c85-49c5-a0a1-373a2be2fbf8
+🎥 Demo Video: [Demo-Video](https://www.loom.com/share/937c12ab6c4a469cb9cb5165e8ba4d31?sid=22112953-5c85-49c5-a0a1-373a2be2fbf8)
 
 💻 GitHub Repository: https://github.com/AdityaGupta23-git/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion-
 

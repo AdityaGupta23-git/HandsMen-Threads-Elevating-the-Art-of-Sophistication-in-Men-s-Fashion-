@@ -96,13 +96,7 @@ Aditya Gupta
 🔄 Developer Console
 <img width="1919" height="917" alt="Screenshot 2025-07-20 001455" src="https://github.com/user-attachments/assets/6e845861-77f2-441d-b7a2-8c59c9288812" />
 
-📄 License
-This project is for academic and portfolio purposes.
-You’re free to fork, adapt, or reference it for learning.
 
-💬 Feedback
-Have suggestions, questions, or want to collaborate?
-Open an issue or drop a message — I’d love to connect!
 
 
 
